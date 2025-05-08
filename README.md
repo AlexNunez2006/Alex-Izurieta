@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">My name is Alex and im from Toronto!<br><br>- 🔭 I’m a passionate full-stack developer<br>- 📚 I'm currently learning algorithms for ML<br>- ⚡ In my free time I like to make content</p>
 
 ###
 
